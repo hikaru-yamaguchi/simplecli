@@ -1,4 +1,4 @@
-use clap::*;
+use clap::;
 
 #[derive(clap)]
 #[clap(
