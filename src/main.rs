@@ -1,6 +1,6 @@
-use clap::;
+use clap::Parser;
 
-#[derive(clap)]
+#[derive(Parser)]
 #[clap(
     name = "My RPN program",
     version = "1.0.0",
